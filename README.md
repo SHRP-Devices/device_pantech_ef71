@@ -20,4 +20,4 @@
 
 ## Device Picture
 
-![SKY IM-100](https://w.namu.la/s/cc607bbd3604eab367748315b88ab1fd2efb0989c119e552d74a8e148c967bbbedfe9adba34b90bea36a4aef369a4845f27c252b7e653ecbad0281406416cfc3f46d3ea9bea8eb395fc04835f75c5cb0524cfb77f3e608ea7ae2416912dfbc9f "SKY IM-100")
+![SKY IM-100](https://namu.wiki/w/%ED%8C%8C%EC%9D%BC:im100.jpg "SKY IM-100")
