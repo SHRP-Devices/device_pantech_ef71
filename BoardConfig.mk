@@ -110,6 +110,7 @@ SHRP_DEVICE_TYPE := A_Only
 SHRP_EXPRESS := true
 SHRP_OFFICIAL := true
 SHRP_DARK := true
+SHRP_EDL_MODE := 1
 
 # Disable Mouse Cursor
 TW_INPUT_BLACKLIST := "hbtp_vm"
